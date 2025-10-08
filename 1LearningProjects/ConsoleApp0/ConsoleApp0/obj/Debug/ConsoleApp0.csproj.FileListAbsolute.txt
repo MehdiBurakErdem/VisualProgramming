@@ -1,0 +1,7 @@
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\bin\Debug\ConsoleApp0.exe.config
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\bin\Debug\ConsoleApp0.exe
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\bin\Debug\ConsoleApp0.pdb
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\obj\Debug\ConsoleApp0.csproj.AssemblyReference.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\obj\Debug\ConsoleApp0.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\obj\Debug\ConsoleApp0.exe
+C:\Users\mehdi\OneDrive\Desktop\Visual\LearningProjects\ConsoleApp0\ConsoleApp0\obj\Debug\ConsoleApp0.pdb
