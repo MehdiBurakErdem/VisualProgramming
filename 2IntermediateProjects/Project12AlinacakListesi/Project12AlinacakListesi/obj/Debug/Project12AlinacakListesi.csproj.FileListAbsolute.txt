@@ -1,0 +1,11 @@
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\bin\Debug\Project12AlinacakListesi.exe.config
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\bin\Debug\Project12AlinacakListesi.exe
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\bin\Debug\Project12AlinacakListesi.pdb
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.csproj.AssemblyReference.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.Form1.resources
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.Properties.Resources.resources
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.csproj.GenerateResource.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.exe
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.pdb
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project12AlinacakListesi\Project12AlinacakListesi\obj\Debug\Project12AlinacakListesi.exe.config
