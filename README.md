@@ -3,6 +3,6 @@ Visual Programming yolun da size rehberlik edebilecek bir repo hazırlıyorum. R
 
 1LearningProjects ----->> C# sytanx düzenini ve genel basic projeleri görüntüleyebilirsiniz.
 
-2IntermediateProjects ->> Orta, ileri C# dili OOP mantığını daha iyi kavramak için hazırlarnmıştır.
+2IntermediateProjects ->> Orta, ileri C# dili ve OOP mantığını daha iyi kavramak için hazırlarnmıştır.
 
-3AdvancedProjects  ---->> Visual Programming ile doğrudan alakalı Projeler.
+3AdvancedProjects  ---->> Visual Programming ile doğrudan alakalı ileri düzey Projeler.
