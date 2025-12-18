@@ -1,0 +1,11 @@
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.csproj.AssemblyReference.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.Form1.resources
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.Properties.Resources.resources
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.csproj.GenerateResource.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\bin\Debug\Project16KronometreKayit.exe.config
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\bin\Debug\Project16KronometreKayit.exe
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\bin\Debug\Project16KronometreKayit.pdb
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.exe
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.pdb
+C:\Users\mehdi\OneDrive\Desktop\Visual\2IntermediateProjects\Project16KronometreKayit\Project16KronometreKayit\obj\Debug\Project16KronometreKayit.exe.config
